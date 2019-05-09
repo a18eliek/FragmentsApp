@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">FragmentsApp</string>
+    <string name="app_name">a18eliek - assignment 6</string>
+    <string name="refresh">Refresh Data</string>
+    <string name="title_activity_mountain_details">MountainDetailsActivity</string>
 </resources>
